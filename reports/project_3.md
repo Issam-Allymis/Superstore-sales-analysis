@@ -83,3 +83,11 @@ The dataset used is the Superstore retail dataset containing information on:
 This analysis highlights that profitability is not solely driven by revenue. Effective discount maangement and product level performance significantly influence overall business success.
 
 ---
+
+## Project Files
+- 'superstore-regional-profitability-analysis.ipynb'
+
+---
+
+## Author
+Issam
