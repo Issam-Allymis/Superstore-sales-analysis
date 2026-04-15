@@ -76,7 +76,7 @@ Reducing discount levels could lead to improve financial performance.
 ___
 
 ## Project Files
-- 'superstore-sales-analysis.ipynb' - Main analysis notebook
+- 'superstore-sales-analysis.ipynb' 
 
 ---
 ## Author
