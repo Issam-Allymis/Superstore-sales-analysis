@@ -5,7 +5,7 @@ This repository contains  data analysis projects based on the Superstore dataset
 ### Project 2 - Profitability & Discounts Analysis
 - Focus: Impact of discounts on profit
 - Key insight: High discounts reduce profitability
-[View Report](reports/projects_2.md)
+[View Report](reports/project_2.md)
 
 ---
 
