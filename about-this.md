@@ -1,1 +1,1 @@
-This project builds on previous (supers-sales-analysis)[supers-sales-analysis]
+This project builds on previous [superstore-sales-analysis](superstore-sales-analysis.ipynb) by shifting focus from product profitability to customer and regonal behaviour, found here [superstore-regional-profitability-analysis](superstore-regional-profitability-analysis.ipynb)
